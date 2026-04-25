@@ -1,0 +1,27 @@
+{
+  "name": "online48hrs-site",
+  "version": "1.0.0",
+  "description": "Online in 48 Hrs - Professional websites for South African businesses",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ONLINE48HRS/online48hrs-site.git"
+  },
+  "keywords": [
+    "website",
+    "business",
+    "south-africa"
+  ],
+  "author": "Online in 48 Hrs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ONLINE48HRS/online48hrs-site/issues"
+  },
+  "homepage": "https://github.com/ONLINE48HRS/online48hrs-site#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
